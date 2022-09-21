@@ -1,0 +1,114 @@
+.CHORUS{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: blueviolet;
+    font-size: medium;
+    text-indent: 100px;
+}
+.DUET{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: blue;
+    font-size: medium;
+    text-indent: 100px;
+
+}
+
+.BUT{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color:whitesmoke;
+    font-size: medium;
+    background-color:darkmagenta;
+
+}
+
+.CAPT{
+ 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: red;
+    font-size: medium;
+    background-color:darkkhaki;
+
+}
+
+.SIRJOSEPH{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: deeppink;
+    font-size: medium;
+    background-color:darkgray;
+
+
+}
+
+.JOS{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkgreen;
+    font-size: medium;
+    background-color:darkorange;
+
+
+
+}.DICK{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: greenyellow;
+    font-size: medium;
+    background-color:darkred;
+
+}
+
+.ALL{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: grey;
+    font-size: medium;
+    background-color:darkcyan;
+
+}
+.BOAT{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: palevioletred;
+    font-size: medium;
+    background-color:darkblue;
+   
+
+}
+
+.d{
+    color: darkolivegreen;
+}
+
+table, th, td {
+
+    border: 1px solid;
+
+
+}
+th,td{
+padding: 10px;
+text-align: center;
+
+}
+tr{
+    row-gap: 0.3px;
+}
+th {
+    background-color: aquamarine;
+    color: darkred;
+}
+tr:nth-child(odd){
+
+    background-color: red;
+    color: black;
+}
