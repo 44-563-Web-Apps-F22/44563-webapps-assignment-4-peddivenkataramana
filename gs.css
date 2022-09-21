@@ -24,7 +24,13 @@
     background-color:darkmagenta;
 
 }
+.BUT:hover{
+color: aqua;
+text-shadow: 5px 10px 15px rebeccapurple;
+background-color: darkgray;
+border-style:solid ;
 
+}
 .CAPT{
  
     font-family: 'Times New Roman', Times, serif;
@@ -33,6 +39,14 @@
     font-size: medium;
     background-color:darkkhaki;
 
+}
+.CAPT:hover{
+     
+        color: aqua;
+        text-shadow: 5px 10px 15px rebeccapurple;
+        background-color: darkgray;
+        border-style:solid ;
+        
 }
 
 .SIRJOSEPH{
@@ -45,15 +59,25 @@
 
 
 }
-
+.SIRJOSEPH:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px rebeccapurple;
+    background-color: darkgray;
+    border-style:solid ;}
+    
 .JOS{
 
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: darkgreen;
     font-size: medium;
-    background-color:darkorange;
-
+    background-color:darkorange;}
+.JOS:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px rebeccapurple;
+    background-color: darkgray;
+    border-style:solid ;
+    
 
 
 }.DICK{ 
@@ -64,6 +88,12 @@
     background-color:darkred;
 
 }
+.DICK:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px rebeccapurple;
+    background-color: darkgray;
+    border-style:solid ;
+}    
 
 .ALL{
 
@@ -74,6 +104,12 @@
     background-color:darkcyan;
 
 }
+.ALL:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px rebeccapurple;
+    background-color: darkgray;
+    border-style:solid ;
+}    
 .BOAT{
 
     font-family: 'Times New Roman', Times, serif;
@@ -84,7 +120,12 @@
    
 
 }
-
+.BOAT:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px rebeccapurple;
+    background-color: darkgray;
+    border-style:solid ;
+}    
 .d{
     color: darkolivegreen;
 }
